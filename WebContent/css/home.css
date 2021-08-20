@@ -1,0 +1,61 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	font-size: 100%;
+	background:url(../images/banking.jpg)no-repeat;
+    background-position:0px 0px;
+	text-align: left;
+	min-height: 100%;
+	background-size:cover;
+	/*min-height:900px;*/
+	background-position:center;
+	background-attachment:fixed;
+}
+
+h2 {
+         width: 79%;
+    padding: 10px 10px 10px 10px;
+    font-weight: bold;
+    background: none;
+    border: none;
+	background: rgba(235, 235, 235, 0.15);
+    color: #000040!important;
+    outline: none;
+    font-size: 30px;
+    margin: 6px 0 17px 0px;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    font-family: 'Roboto', sans-serif;
+}
+
+.links {
+         width: 79%;
+    padding: 10px 10px 10px 10px;
+    font-weight: bold;
+    background: none;
+    border: none;
+	background: rgba(30, 35, 635, 0.15);
+    color: #000040!important;
+    outline: none;
+    font-size: 30px;
+    margin: 6px 0 17px 0px;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+
+    
+    
+    
+    
+    
